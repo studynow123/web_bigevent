@@ -1,0 +1,63 @@
+/* 底部固定区域 */
+.layui-footer {
+    text-align: center;
+    font-size: 12px;
+}
+
+/* 第三方字体图标 */
+.iconfont {
+    margin-right: 8px;
+}
+
+/* layui字体图标 */
+.layui-icon {
+    margin-right: 8px;
+    margin-left: 20px;
+}
+
+/* iframe标签 */
+iframe {
+    width: 100%;
+    height: 100%;
+}
+
+/* 内容主体区域 */
+.layui-body {
+    overflow: hidden;
+}
+
+a {
+    transition: none !important;
+}
+
+.userinfo {
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 12px;
+    user-select: none;
+}
+
+.layui-side-scroll .userinfo {
+    border-bottom: 1px solid #282b33;
+}
+
+.layui-nav-img {
+    width: 40px;
+    height: 40px;
+}
+
+.text_avatar {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    background-color: #009688;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 40px;
+    font-size: 20px;
+    color: #fff;
+    position: relative;
+    top: 4px;
+    margin-right: 10px;
+}
